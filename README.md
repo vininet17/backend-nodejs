@@ -29,3 +29,47 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/vininet17/backend-nodejs?style=social">
   </a>
 </p>
+
+## 💻 Project
+
+Backend server for any uses
+
+
+## :rocket: Technologies
+
+This project was developed with the following technologies:
+
+- [Node.js][nodejs]
+- [TypeScript][typescript]
+
+
+### Install Back-end 
+
+```bash
+# Clone this repository
+$ git clone https://github.com/vininet17/backend-nodejs
+
+# Install dependencies
+$ npm install
+
+# Run Migrates
+$ npm run knex:migrate
+
+# Run Seeds
+$ npm run knex:seed
+
+# Start server
+$ npm run dev
+
+# running on port 3333
+```
+
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/vininet17/backend-nodejs/blob/master/LICENSE) for details.
+
+Made with ♥ by Vinicius Lazzari :wave: [Get in touch!](https://www.linkedin.com/in/viniciuslazzari/)
+
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
