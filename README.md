@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/673a9ea353f94a73b2f0a875e56e7acd)](https://app.codacy.com/manual/vininet17/backend-nodejs?utm_source=github.com&utm_medium=referral&utm_content=vininet17/backend-nodejs&utm_campaign=Badge_Grade_Settings)
+
 <h1 align="center">
     <img alt="BackendNodeJs" title="#BackendNodeJs" src=".github/nodejs.svg" width="250px" />
 </h1>
