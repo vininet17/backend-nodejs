@@ -1,6 +1,4 @@
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/673a9ea353f94a73b2f0a875e56e7acd)](https://app.codacy.com/manual/vininet17/backend-nodejs?utm_source=github.com&utm_medium=referral&utm_content=vininet17/backend-nodejs&utm_campaign=Badge_Grade_Settings)
-
 <h1 align="center">
     <img alt="BackendNodeJs" title="#BackendNodeJs" src=".github/nodejs.svg" width="250px" />
 </h1>
@@ -10,6 +8,10 @@
 </h4>
 
 <p align="center">	
+  <a href="https://app.codacy.com/manual/vininet17/backend-nodejs?utm_source=github.com&utm_medium=referral&utm_content=vininet17/backend-nodejs&utm_campaign=Badge_Grade_Settings">
+	<img src="https://api.codacy.com/project/badge/Grade/673a9ea353f94a73b2f0a875e56e7acd"/>
+  </a>	
+	
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vininet17/backend-nodejs?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/vininet17/backend-nodejs">
