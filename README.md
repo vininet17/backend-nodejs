@@ -17,7 +17,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/vininet17/backend-nodejs">
 	
   <a href="https://www.linkedin.com/in/viniciuslazzari/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-vininet17-%2304D361">
+    <img alt="Made by ViniciusLazzari" src="https://img.shields.io/badge/made%20by-vininet17-%2304D361">
   </a>
 
   <a href="https://github.com/vininet17/backend-nodejs/commits/master">
@@ -51,6 +51,9 @@ $ git clone https://github.com/vininet17/backend-nodejs
 
 # Install dependencies
 $ npm install
+
+# Generate tsconfig.json
+$ tsc --init (If an error results, use: npm install -g typescript)
 
 # Run Migrates
 $ npm run knex:migrate
