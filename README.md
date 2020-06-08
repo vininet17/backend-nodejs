@@ -6,9 +6,7 @@
 	:construction: Backend Nodejs 🚀 In progress.. :construction:
 </h4>
 
-<p align="center">
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/72b2ac4d52024bf0a0fd387d1e1d6390)](https://www.codacy.com/manual/vininet17/backend-nodejs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vininet17/backend-nodejs&amp;utm_campaign=Badge_Grade)
-	
+<p align="center">	
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vininet17/backend-nodejs?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/vininet17/backend-nodejs">
